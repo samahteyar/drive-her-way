@@ -16,8 +16,8 @@ const Navbar = () => {
               <span className="text-2xl">🚗</span>
             </div>
             <div>
-              <h1 className="text-xl font-bold text-foreground">مدرسة النور</h1>
-              <p className="text-xs text-muted-foreground">لتعليم قيادة السيارات</p>
+              <h1 className="text-xl font-bold text-foreground">مدرسة نسرين</h1>
+              <p className="text-xs text-muted-foreground">لتعليم السياقة للنساء</p>
             </div>
           </div>
 

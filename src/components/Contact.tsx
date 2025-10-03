@@ -40,8 +40,8 @@ const Contact = () => {
     {
       icon: Mail,
       title: "البريد الإلكتروني",
-      content: "info@alnoor-driving.com",
-      link: "mailto:info@alnoor-driving.com"
+      content: "info@nasreen-driving.com",
+      link: "mailto:info@nasreen-driving.com"
     },
     {
       icon: MapPin,

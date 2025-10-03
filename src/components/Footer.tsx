@@ -13,7 +13,7 @@ const Footer = () => {
                 <span className="text-xl">🚗</span>
               </div>
               <div>
-                <h3 className="font-bold text-lg">مدرسة نسرين</h3>
+                <h3 className="font-bold text-lg">مدرسة سرين</h3>
                 <p className="text-sm text-muted-foreground">لتعليم السياقة للنساء</p>
               </div>
             </div>
@@ -72,7 +72,7 @@ const Footer = () => {
 
         <div className="border-t border-border pt-8 text-center">
           <p className="text-muted-foreground flex items-center justify-center gap-2">
-            صُنع بـ <Heart className="w-4 h-4 fill-primary text-primary" /> © 2025 مدرسة نسرين لتعليم السياقة. جميع الحقوق محفوظة.
+            صُنع بـ <Heart className="w-4 h-4 fill-primary text-primary" /> © 2025 مدرسة سرين لتعليم السياقة. جميع الحقوق محفوظة.
           </p>
         </div>
       </div>

@@ -49,7 +49,7 @@ const Contact = () => {
     {
       icon: Facebook,
       name: "فيسبوك",
-      link: "https://www.facebook.com/profile.php?id=61571308859830"
+      link: "https://www.facebook.com/share/16iKgJcwDq/?mibextid=wwXIfr"
     }
   ];
 

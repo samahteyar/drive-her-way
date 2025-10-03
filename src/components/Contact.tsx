@@ -120,7 +120,7 @@ const Contact = () => {
 
             <div className="rounded-3xl overflow-hidden shadow-elegant h-64">
               <iframe
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3624.4!2d46.7!3d24.7!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMjTCsDQyJzAwLjAiTiA0NsKwNDInMDAuMCJF!5e0!3m2!1sen!2ssa!4v1234567890"
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3197.4!2d2.8275!3d36.4753!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzbCsDI4JzMxLjEiTiAywrA0OSczOC45IkU!5e0!3m2!1sen!2sdz!4v1234567890"
                 width="100%"
                 height="100%"
                 style={{ border: 0 }}

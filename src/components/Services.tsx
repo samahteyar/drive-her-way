@@ -40,7 +40,7 @@ const Services = () => {
       description: "اهتمام خاص بكل متدربة لضمان إتقان جميع مهارات القيادة",
       color: "text-accent"
     }
-  
+  ]
       const Services = () => {
   return (
     <div className="absolute inset-0 gradient-hero flex items-center justify-center">

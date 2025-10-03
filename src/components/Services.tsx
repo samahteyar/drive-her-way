@@ -41,13 +41,15 @@ const Services = () => {
       color: "text-accent"
     }
   
-      return (
-  <div className="absolute inset-0 gradient-hero flex items-center justify-center">
-    <div className="text-center text-white px-4">
-      <h3 className="text-3xl md:text-4xl font-bold mb-4">جاهزة لتبدأي رحلتك؟</h3>
+      const Services = () => {
+  return (
+    <div className="absolute inset-0 gradient-hero flex items-center justify-center">
+      <div className="text-center text-white px-4">
+        <h3 className="text-3xl md:text-4xl font-bold mb-4">جاهزة لتبدأي رحلتك؟</h3>
+      </div>
     </div>
-  </div>
-)
+  )
+}
           </div>
         </div>
       </div>

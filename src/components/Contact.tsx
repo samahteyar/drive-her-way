@@ -3,7 +3,7 @@ import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
 import { Textarea } from "@/components/ui/textarea";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
-import { Phone, Mail, MapPin, Instagram, Facebook, MessageCircle, Send } from "lucide-react";
+import { Phone, MapPin, Facebook, Send } from "lucide-react";
 import { useToast } from "@/hooks/use-toast";
 
 const Contact = () => {
@@ -27,45 +27,29 @@ const Contact = () => {
   const contactInfo = [
     {
       icon: Phone,
-      title: "الهاتف",
-      content: "0500000000",
-      link: "tel:0500000000"
+      title: "رقم الهاتف الأول",
+      content: "0657381617",
+      link: "tel:0657381617"
     },
     {
-      icon: MessageCircle,
-      title: "واتساب",
-      content: "تواصلي معنا",
-      link: "https://wa.me/966500000000"
-    },
-    {
-      icon: Mail,
-      title: "البريد الإلكتروني",
-      content: "info@nasreen-driving.com",
-      link: "mailto:info@nasreen-driving.com"
+      icon: Phone,
+      title: "رقم الهاتف الثاني",
+      content: "0791304023",
+      link: "tel:0791304023"
     },
     {
       icon: MapPin,
       title: "العنوان",
-      content: "الرياض، المملكة العربية السعودية",
+      content: "الجزائر، ولاية البليدة، حي ابن عمور، ولاد يعيش مقابل أمن الدائرة",
       link: "#"
     }
   ];
 
   const socialLinks = [
     {
-      icon: Instagram,
-      name: "إنستغرام",
-      link: "https://instagram.com"
-    },
-    {
       icon: Facebook,
       name: "فيسبوك",
-      link: "https://facebook.com"
-    },
-    {
-      icon: MessageCircle,
-      name: "سناب شات",
-      link: "https://snapchat.com"
+      link: "https://www.facebook.com/profile.php?id=61571308859830"
     }
   ];
 

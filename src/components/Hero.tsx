@@ -42,29 +42,6 @@ const Hero = () => {
                 سجّلي الآن
                 <ArrowLeft className="mr-2 h-5 w-5" />
               </Button>
-              
-              <Button 
-                size="lg"
-                variant="outline"
-                className="border-2 border-primary text-primary hover:bg-primary hover:text-white transition-smooth text-lg font-bold px-8"
-              >
-                تعرفي على خدماتنا
-              </Button>
-            </div>
-            
-            <div className="grid grid-cols-3 gap-6 pt-8">
-              <div className="text-center">
-                <div className="text-3xl font-bold gradient-primary bg-clip-text text-transparent">500+</div>
-                <div className="text-sm text-muted-foreground">طالبة متخرجة</div>
-              </div>
-              <div className="text-center">
-                <div className="text-3xl font-bold gradient-primary bg-clip-text text-transparent">15+</div>
-                <div className="text-sm text-muted-foreground">مدربة محترفة</div>
-              </div>
-              <div className="text-center">
-                <div className="text-3xl font-bold gradient-primary bg-clip-text text-transparent">98%</div>
-                <div className="text-sm text-muted-foreground">نسبة النجاح</div>
-              </div>
             </div>
           </div>
           
